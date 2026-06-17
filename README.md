@@ -92,14 +92,3 @@ Recommendations
 
 5.Prioritize high-demand categories.                                                                                                                                    
 
-~ REPOSITORY STRUCTURE 
-
-data/
-
-sql/
-
-notebooks/
-
-powerbi/                                                                                                                                                                
-reports/                                                                                                                                                                            
-presentation/
