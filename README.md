@@ -1,12 +1,12 @@
 # supply-chain-analytics-project
-End-to-end Supply Chain Analytics project using SQL, Python, and Power BI to optimize inventory decisions and generate actionable business insights.
-Project Overview
+End-to-end Supply Chain Analytics project using SQL, Python, and Power BI to optimize inventory decisions and generate actionable business insights.                                                                                                                                                                                    
+PROJECT OVERVIEW                                                                                                                                                             
 
 SwiftOps, a fictional retail supply chain organization, faced challenges in maintaining optimal inventory levels, reducing delivery delays, controlling operational costs, and improving warehouse efficiency.
 
-This project transforms raw operational data into actionable business insights using SQL, Python, and Power BI. The analysis identifies inefficiencies, uncovers performance gaps, and recommends data-driven strategies to support operational decision-making.
+This project transforms raw operational data into actionable business insights using SQL, Python, and Power BI. The analysis identifies inefficiencies, uncovers performance gaps, and recommends data-driven strategies to support operational decision-making.                                                                                                        
 
-~ Business Objectives
+~ BUSINESS OBJECTIVES                                                                                                                                                                                 
 
 1.Identify warehouses contributing to delivery delays.
 
@@ -18,47 +18,53 @@ This project transforms raw operational data into actionable business insights u
 
 5.Compare demand against available inventory.
 
-6.Recommend actions to improve supply chain efficiency.
+6.Recommend actions to improve supply chain efficiency.                                                                                                            
 
-~ Tools & Technologies
+~ TOOLS & TECHNOLOGIES                                                                                                                                                                         
+	                 
+PostgreSQL	           
 
-Tool	Purpose
-PostgreSQL	SQL Analysis
+Python	              
 
-Python	Exploratory Data Analysis
+Pandas	               
 
-Pandas	Data Manipulation
+Matplotlib             
 
-Matplotlib	Visualization
+Jupyter Notebook	  
 
-Jupyter Notebook	Documentation
+Power BI	          
 
-Power BI	Dashboard Development
+GitHub	                                                                                                                                                                                               
 
-GitHub	Portfolio Presentation
-
-~ Project Workflow
+~ PROJECT WORKFLOW                                                                                                                                                                             
 
 Business Problem
-    ↓
+
+      ↓
     
 Data Preparation
-    ↓
+
+      ↓
     
 Python EDA
-    ↓
+
+      ↓
     
 SQL Analysis
-    ↓
+
+      ↓
 Power BI Dashboard
-    ↓
+
+      ↓
     
 Insights
-    ↓    
+
+      ↓    
     
 Recommendations
 
-~ Key Findings
+
+~ KEY FINDINGS                                                                                                                                                                        
 
 1.Inventory Analysis
 
@@ -72,9 +78,9 @@ Recommendations
 
 6.Profitability Analysis
 
-7.Operational inefficiencies impacted warehouse profitability.
+7.Operational inefficiencies impacted warehouse profitability.                                                                                                                
 
-~ Business Recommendations
+~ BUSINESS RECOMMENDATION                                                                                                                                                                         
 
 1.Improve replenishment planning.
 
@@ -84,13 +90,16 @@ Recommendations
 
 4.Reduce operational costs.
 
-5.Prioritize high-demand categories.
+5.Prioritize high-demand categories.                                                                                                                                    
 
-~ Repository Structure
+~ REPOSITORY STRUCTURE 
 
 data/
+
 sql/
+
 notebooks/
-powerbi/
-reports/
+
+powerbi/                                                                                                                                                                
+reports/                                                                                                                                                                            
 presentation/
